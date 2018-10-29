@@ -1,1 +1,0 @@
-[31-Jul-2018 11:05:05 Africa/Lagos] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ezejiugo/public_html/demo/simplepayroll/include/config.php on line 10
